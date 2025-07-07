@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Nyasha Nyakauru
+ 👋 Hello, I'm Nyasha 
 
 I'm a dedicated *Software Engineer* with a passion for building efficient, scalable, and user-friendly applications. My expertise spans across backend systems using *Java, Javascript, Python , React , Nextjs , full-stack web apps with Nodejs and Next.js, and automation projects in Python. I also enjoy creating clean and intuitive interfaces backed by solid UI/UX design principles.
 
